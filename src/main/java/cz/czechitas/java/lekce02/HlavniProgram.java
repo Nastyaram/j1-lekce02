@@ -7,22 +7,14 @@ public class HlavniProgram {
 
     public void start() {
         zofka = new Turtle();
-
-
-        //TODO tady bude kód
         for (int i = 0; i < 4; i++) {
             zofka.move(100);
             zofka.turnRight(90);
         }
 
-            zofka.move(100);
-            zofka.turnRight(45);
 
-            zofka.move(100);
-            zofka.turnRight(90);
 
-            zofka.move(100);
-            zofka.turnLeft(15);
+        //TODO tady bude kód
 
 
 
